@@ -88,6 +88,12 @@ docker ps -a
 ## Couchdb 
 * Can access couchdb url :- http://localhost:5984/_utils/
 
+##### To start Api layer follow the below commands
+
+* To start api's
+```
+./fabricapi.sh
+```
 ## License <a name="license"></a>
 
 Hyperledger Project source code files are made available under the Apache
